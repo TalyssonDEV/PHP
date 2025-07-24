@@ -1,0 +1,28 @@
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Pastas de dependências
+/vendor/
+/node_modules/
+
+# Arquivos de configurações sensíveis
+.env
+config.local.php
+
+# Arquivos de logs
+*.log
+/logs/
+
+# Arquivos temporários/cache
+*.tmp
+*.temp
+*.swp
+.vscode/
+/cache/
+
+# Arquivos do MySQL Workbench e Source Maps
+*.mwb
+*.mwb.bak
+*.map
